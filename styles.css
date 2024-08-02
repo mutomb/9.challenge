@@ -90,10 +90,6 @@ header{
   text-decoration: none;
   font-size: 17px;
 }
-.topnav a:hover {
-  background-color: var(--color-background-grey);
-  color: var(--color-text-white);
-}
 
 .topnav a{
   display: none;
